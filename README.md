@@ -30,7 +30,7 @@ Search Results
 ![Project Screenshot](static/SearchResultNF.png)
 
 About Page
-![Project Screenshot](static/about.png)
+![Project Screenshot](static/About.png)
 
 Contact Page
 ![Project Screenshot](static/contact.png)
