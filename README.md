@@ -16,5 +16,25 @@
 - **TailwindCSS**: Frontend framework for styling and responsive design.
 
 ## How it looks and works
-
+Home Page
 ![Project Screenshot](static/homepage.png)
+
+Property Page
+![Project Screenshot](static/propertypage.png)
+
+![Project Screenshot](static/propertypage1.png)
+
+Search Results
+![Project Screenshot](static/SearchResults.png)
+
+![Project Screenshot](static/SearchResultNF.png)
+
+About Page
+![Project Screenshot](static/about.png)
+
+Contact Page
+![Project Screenshot](static/contact.png)
+
+
+
+
