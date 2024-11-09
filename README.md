@@ -15,5 +15,6 @@
 - **SQLite**: Default database for storing data. Can be replaced with PostgreSQL or MySQL for production.
 - **TailwindCSS**: Frontend framework for styling and responsive design.
 
-## How to Use 
+## How it looks and works
 
+![Project Screenshot](static/homepage.png)
